@@ -8,9 +8,7 @@ import javax.swing.JOptionPane;
 
 public class Travelling_Management_Systems extends javax.swing.JFrame {
     
-    /**
-     * Creates new form 
-     */
+    
     public Travelling_Management_Systems() {
         initComponents();
     }
@@ -338,11 +336,11 @@ public class Travelling_Management_Systems extends javax.swing.JFrame {
 
         pack();
         setLocationRelativeTo(null);
-    }// </editor-fold>//GEN-END:initComponents
+    }
 
     private void jRbReturnActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jRbReturnActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_jRbReturnActionPerformed
+        
+    }
 
     private void jbtnTotalMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jbtnTotalMouseClicked
         
@@ -832,9 +830,7 @@ private JFrame frame;
         // TODO add your handling code here:
     }//GEN-LAST:event_jtxtTelephoneActionPerformed
 
-    /**
-     * @param args the command line arguments
-     */
+    
     public static void main(String args[]) {
         /* Set the Nimbus look and feel */
         //<editor-fold defaultstate="collapsed" desc=" Look and feel setting code (optional) ">
